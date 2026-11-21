@@ -1,0 +1,51 @@
+word_norm,word,category,severity,actual_meaning,script,source
+ақмак,ақмак,disability,4,fool or idiot (literally 'wooden'); implies mental disability or stupidity,Cyrillic,BibbyResearch/ProfanityBench
+ақсақ,ақсақ,disability,4,lame or limping person; insult implying physical defect or general inadequacy,Cyrillic,BibbyResearch/ProfanityBench
+мылқау,мылқау,disability,4,mute or speechless person; insult suggesting stupidity or inability to speak coherently,Cyrillic,BibbyResearch/ProfanityBench
+мүгедек,мүгедек,disability,4,"person with disability; used derogatorily to imply defectiveness, incompetence or worthlessness",Cyrillic,BibbyResearch/ProfanityBench
+саңырау,саңырау,disability,4,deaf person; used insultingly to imply unwillingness to listen or intellectual deficiency,Cyrillic,BibbyResearch/ProfanityBench
+соқыр,соқыр,disability,4,"blind person; used as insult implying ignorance, stupidity or lack of perception",Cyrillic,BibbyResearch/ProfanityBench
+бархан,бархан,ethnic_slur,5,"ethnic slur for a Kazakh perceived as rude, uncultured, rural or poorly speaking Russian",Cyrillic,BibbyResearch/ProfanityBench
+манқұрт,манқұрт,ethnic_slur,5,"derogatory term for a Kazakh who has lost cultural identity, language or traditions, often Russified urbanite",Cyrillic,BibbyResearch/ProfanityBench
+шалақазақ,шалақазақ,ethnic_slur,5,ethnic slur for Russophone or urban Kazakhs seen as culturally diluted or not 'real' Kazakhs,Cyrillic,BibbyResearch/ProfanityBench
+жетесіз,Жетесіз,illegitimacy,2,illegitimate person; someone without proper family or social roots,Cyrillic,BibbyResearch/ProfanityBench
+заңсыз,Заңсыз,illegitimacy,2,illegitimate; born outside marriage,Cyrillic,BibbyResearch/ProfanityBench
+қырық сидік,Қырық сидік,illegitimacy,2,person born out of wedlock; bastard,Cyrillic,BibbyResearch/ProfanityBench
+аңқау,аңқау,intelligence insult (gullibility),2,"naive, gullible, easily fooled or trusting person",Cyrillic,BibbyResearch/ProfanityBench
+дүми,дүми,intelligence insult (gullibility),2,"dull, ignorant or gullible person",Cyrillic,BibbyResearch/ProfanityBench
+жынды,жынды,intelligence insult (gullibility),2,"foolish, acting irrationally or gullibly",Cyrillic,BibbyResearch/ProfanityBench
+кеще,кеще,intelligence insult (gullibility),2,"clumsy-minded, bumbling, foolish or slow-witted",Cyrillic,BibbyResearch/ProfanityBench
+маубас,маубас,intelligence insult (gullibility),2,"slow to think, tuft-like dull person, gullible",Cyrillic,BibbyResearch/ProfanityBench
+мақау,мақау,intelligence insult (gullibility),2,"uncomprehending, dullard, easily duped or slow",Cyrillic,BibbyResearch/ProfanityBench
+миғұла,миғұла,intelligence insult (gullibility),2,"brainless, very foolish, easily tricked",Cyrillic,BibbyResearch/ProfanityBench
+топас,топас,intelligence insult (gullibility),2,"dull-witted, slow to understand, stupid person",Cyrillic,BibbyResearch/ProfanityBench
+ам,ам,misogynistic slur,4,"cunt, used as slur for women",Cyrillic,BibbyResearch/ProfanityBench
+арсыз,арсыз,misogynistic slur,4,"shameless woman, slut",Cyrillic,BibbyResearch/ProfanityBench
+жезөкше,жезөкше,misogynistic slur,4,"prostitute, whore",Cyrillic,BibbyResearch/ProfanityBench
+жәлеп,жәлеп,misogynistic slur,4,"prostitute, slut, promiscuous woman",Cyrillic,BibbyResearch/ProfanityBench
+надан,надан,misogynistic slur,3,ignorant/stupid woman (often gendered insult),Cyrillic,BibbyResearch/ProfanityBench
+тентек,тентек,misogynistic slur,3,wild/promiscuous woman or girl,Cyrillic,BibbyResearch/ProfanityBench
+қатын,қатын,misogynistic slur,4,"derogatory term for woman, bitch",Cyrillic,BibbyResearch/ProfanityBench
+ұятсыз,ұятсыз,misogynistic slur,3,shameless/promiscuous woman,Cyrillic,BibbyResearch/ProfanityBench
+амшелек,амшелек,profanity,5,"whore, slut; derogatory term for promiscuous woman",Cyrillic,BibbyResearch/ProfanityBench
+бок,бок,profanity,5,shit; used as 'bullshit' or general insult,Cyrillic,BibbyResearch/ProfanityBench
+жаляп,жаляп,profanity,5,"whore, slut; direct insult to women's morality",Cyrillic,BibbyResearch/ProfanityBench
+көт,көт,profanity,5,asshole; used as insult similar to 'ass' or 'jerk',Cyrillic,BibbyResearch/ProfanityBench
+көтен,көтен,profanity,5,buttocks; used vulgarly as 'ass' or in compounds,Cyrillic,BibbyResearch/ProfanityBench
+сигілген,сигілген,profanity,5,fucked (up); used as 'fucking' intensifier or insult,Cyrillic,BibbyResearch/ProfanityBench
+қотақ,қотақ,profanity,5,dick; used as strong insult like 'dickhead' or general vulgar abuse,Cyrillic,BibbyResearch/ProfanityBench
+қотақбас,қотақбас,profanity,5,complete idiot or asshole; compound insult,Cyrillic,BibbyResearch/ProfanityBench
+мәмбет,мәмбет,rural/urban slur,1,"uneducated, uncultured rural person or yokel from the village (aul)",Cyrillic,BibbyResearch/ProfanityBench
+дәрет,дәрет,scatological,3,"shit, used as a mild scatological insult or exclamation of disgust",Cyrillic,BibbyResearch/ProfanityBench
+зәр,зәр,scatological,3,"piss, used scatologically to express contempt or as exclamation",Cyrillic,BibbyResearch/ProfanityBench
+нәжіс,нәжіс,scatological,3,"feces or filth, used in scatological context",Cyrillic,BibbyResearch/ProfanityBench
+си,си,scatological,3,"to piss, used in scatological expressions or insults",Cyrillic,BibbyResearch/ProfanityBench
+қи,қи,scatological,3,"animal or human shit, scatological term",Cyrillic,BibbyResearch/ProfanityBench
+арам,арам,slur,5,"crook, scoundrel; moral insult",Cyrillic,BibbyResearch/ProfanityBench
+ақымақ,ақымақ,slur,5,stupid person; direct insult to intelligence,Cyrillic,BibbyResearch/ProfanityBench
+дұшпан,дұшпан,slur,5,"villain, harmful person; strong negative label",Cyrillic,BibbyResearch/ProfanityBench
+есек,есек,slur,5,"idiot, fool; animal insult implying stupidity",Cyrillic,BibbyResearch/ProfanityBench
+ит,ит,slur,5,"bastard, son of a bitch; strong insult implying low status or betrayal",Cyrillic,BibbyResearch/ProfanityBench
+мыстан,мыстан,slur,5,nasty old woman; gendered insult,Cyrillic,BibbyResearch/ProfanityBench
+шошқа,шошқа,slur,5,"dirty person, traitor or general insult; strong due to religious taboo",Cyrillic,BibbyResearch/ProfanityBench
+қақбас,қақбас,slur,5,old person with bad habits; cranky elder insult,Cyrillic,BibbyResearch/ProfanityBench

@@ -1,0 +1,10 @@
+{
+  "model": "char_wb TF-IDF (2-5) + LogisticRegression(class_weight=balanced)",
+  "C": 30,
+  "threshold": 0.35453168415661784,
+  "seed": 42,
+  "val_f1": 0.9686609686604687,
+  "max_features": 300000,
+  "split_seed": 42,
+  "split": "70/15/15 by near-duplicate group"
+}

@@ -1,0 +1,71 @@
+{
+  "n_test": 2631,
+  "n_pos": 169,
+  "n_neg": 2462,
+  "threshold": 0.35453168415661784,
+  "precision": 0.9540229885057471,
+  "recall": 0.9822485207100592,
+  "f1": 0.967930029154519,
+  "pr_auc": 0.9935898712053953,
+  "roc_auc": 0.9996418940679391,
+  "confusion_matrix": {
+    "tn": 2454,
+    "fp": 8,
+    "fn": 3,
+    "tp": 166
+  },
+  "by_domain": {
+    "appstore": {
+      "n": 1447,
+      "pos": 169,
+      "pred_pos": 173,
+      "tp": 166,
+      "fp": 7,
+      "fn": 3,
+      "precision": 0.9595375722543352,
+      "recall": 0.9822485207100592
+    },
+    "bookstore": {
+      "n": 76,
+      "pos": 0,
+      "pred_pos": 1,
+      "tp": 0,
+      "fp": 1,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": null
+    },
+    "mapping": {
+      "n": 224,
+      "pos": 0,
+      "pred_pos": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": null,
+      "recall": null
+    },
+    "market": {
+      "n": 884,
+      "pos": 0,
+      "pred_pos": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": null,
+      "recall": null
+    }
+  },
+  "positives_by_label_source": {
+    "auto_lexicon": {
+      "n": 169,
+      "pos": 169,
+      "pred_pos": 166,
+      "tp": 166,
+      "fp": 0,
+      "fn": 3,
+      "precision": 1.0,
+      "recall": 0.9822485207100592
+    }
+  }
+}
